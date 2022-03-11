@@ -1,0 +1,29 @@
+01. Faça um programa que receba um número n e preencha um vetor com n números.
+Depois, realize as seguintes operações na sequência:
+a. Imprima o vetor preenchido
+b. Digite um número x, se este número existir no vetor remova-o
+c. Imprima novamente o vetor
+d. Digite um número y, se este número não existir no vetor, adicione-o
+e. Imprima novamente o vetor
+02. Faça um programa que receba um número n e preencha um vetor com n números.
+Supondo que o vetor digitado foi [1, 2, 3, 4], imprima-o da seguinte maneira: (1) (2) (3)
+(4). Dica: print(‘texto’,end=’’) impede quebra de linha após a impressão do texto do
+print.
+03. Faça um programa que receba um número n e preencha dois vetores com n dígitos
+entre 0 e 9 (valide essa operação). Depois some os dois números e gere um terceiro
+vetor com a soma. Exemplo: n = 3 com vet1 = [8, 2, 3] e vet2 = [3, 4, 9] geraria o vet3 =
+[1, 1, 7, 2].
+04. Faça um programa que receba dois números m e n. Preencha dois vetores de modo
+ordenado (não precisa validar) e depois gere um único vetor ordenado com o número
+dos dois vetores. Exemplo: vet1 = [1, 2, 3] e vet2 = [2, 4, 5] resultaria em [1, 2, 2, 3, 4,
+5].
+05. Faça um programa que receba um número n e preencha um vetor com n números.
+Verifique se esse vetor tem um número palíndromo (um número que escrito na ordem
+inversa é igual).
+06. Dadas as datas de aniversário de um casal, diz-se que o casal é perfeito se o número
+mágico dos dois é igual. O número mágico é obtido por somar-se repetidamente os
+dígitos da data de aniversário dos indivíduos no formato ddmmaaaa até que esse
+número permaneça com um único digito. Faça um programa que verifique se um casal
+é perfeito ou não, dados as datas de nascimento do casal no formato ddmmaaaa.
+Exemplo: niver1 = 19011981 (1+9+0+1+1+9+8+1 = 30 = 3+0 = 3) e niver2 = 20021970
+(2+0+0+2+1+9+7+0 = 30 = 3+0= 3), logo este casal é perfeito.
