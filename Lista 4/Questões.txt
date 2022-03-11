@@ -1,0 +1,34 @@
+01. Faça a seguinte função:
+a. Parâmetro: dois números
+b. Saída: soma dos dois números
+02. Faça a seguinte função:
+a. Parâmetro: dois números
+b. Saída: média aritmética dos dois números
+03. Faça a seguinte função:
+a. Parâmetro: um número e um percentual
+b. Saída: o número de acordo com o percentual
+c. Exemplo: 150 e 50 -> 75
+04. Faça a seguinte função:
+a. Parâmetro: um número
+b. Saída: True se par e False se impar
+05. Faça a seguinte função:
+a. Parâmetro: um número
+b. Saída: dia da semana em texto
+c. Exemplo: 1 -> Domingo
+06. Faça a seguinte função:
+a. Parâmetro: um número
+b. Saída: True se triangular e False se não for triangular
+c. Exemplo: 120 -> True (pois 4x5x6=120)
+07. Faça a seguinte função:
+a. Parâmetro: um número
+b. Saída: quantidade de dígitos desse número
+c. Exemplo: 362 -> 3
+08. Faça a seguinte função:
+a. Parâmetro: um número
+b. Saída: True se primo e False se não for primo
+09. Faça a seguinte função:
+a. Parâmetro: dois números
+b. Saída: MDC entre esses números
+10. Faça a seguinte função:
+a. Parâmetro: dois números
+b. Saída: MMC entre esses números
