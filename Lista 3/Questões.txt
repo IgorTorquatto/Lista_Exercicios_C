@@ -1,0 +1,38 @@
+01. Faça um programa que receba um número n e imprima os n primeiros inteiros
+positivos.
+02. Faça um programa que receba um número inteiro por vez e imprima seu quadrado até
+que o usuário digite o valor zero.
+03. Faça um programa que receba um número n e imprima os n primeiros números
+impares.
+04. Faça um programa que receba um número n. Receba a nota de n alunos. Ao final do
+programa imprima a maior e a menor nota.
+05. Faça um programa que receba um número n e some os números pares de 0 até o
+número digitado.
+06. Faça um programa que receba um inteiro, valide-o como não negativo. Depois, calcule
+e imprima o fatorial deste número.
+07. Faça um programa que receba dois números inteiros positivos e um número n.
+Imprima em ordem crescente os n primeiros naturais que são múltiplos de um dos
+dois primeiros inteiros digitados. Exemplo: 2 e 3 com n = 6 resultaria em 0, 2, 3, 4, 6, 8.
+08. Faça um programa que receba um número inteiro e diga se ele é triangular ou não. Um
+número natural é triangular se ele é produto de três números naturais consecutivos.
+Exemplo: 120 é triangular, pois 4x5x6 = 120.
+09. Faça um programa que receba um número inteiro. Verifique se esse número é primo
+ou não e imprima essa informação.
+10. Faça um programa que receba a quantidade de discos vendidos em uma loja durante
+cada dia do mês de Abril. Imprima qual o dia que ocorreu a maior venda do mês e qual
+foi a quantidade de discos vendidos.
+11. Faça um programa que receba um inteiro n. Digite depois uma sequência com n
+inteiros. Por fim, imprima a quantidade de segmentos de números consecutivos iguais.
+Exemplo: a seguinte sequência com 10 números (5, 2, 2, 3, 4, 4, 4, 4, 1, 1) é formada
+por 5 segmentos.
+12. Faça um programa que receba um número inteiro n. Depois, receba um conjunto de
+dados de n pessoas, contendo: altura e sexo. Por fim, imprima: a maior e menor altura
+do grupo; a média de altura das mulheres; o número de homens; e a diferença
+percentual entre estes e as mulheres.
+13. Faça um programa que receba dois números e imprima o Máximo Divisor Comum
+(MDC).
+14. Faça um programa que receba dois números e imprima o Mínimo Múltiplo Comum
+(MMC).
+15. Faça um programa que receba dois números inteiros, sendo que o primeiro possui
+menos casas que o segundo. Depois verifique se o primeiro número é subnúmero do
+segundo. Exemplos: 23 é subnúmero de 57238; 23 não é subnúmero de 258347.
